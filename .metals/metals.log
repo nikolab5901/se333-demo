@@ -1,0 +1,17 @@
+2026.02.13 18:51:49 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\Admin\Documents\se333-demo' for client Visual Studio Code 1.109.3.
+2026.02.13 18:51:49 INFO  Memory monitor started
+2026.02.13 18:51:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.13 18:51:57 INFO  no build target found for C:\Users\Admin\Documents\se333-demo\src\test\java\com\example\CalculatorTest.java. Using fallback presentation compiler.
+2026.02.13 18:51:57 WARN  no build target for: C:\Users\Admin\Documents\se333-demo\src\test\java\com\example\CalculatorTest.java
+2026.02.13 18:52:01 WARN  no build target for: C:\Users\Admin\Documents\se333-demo\src\main\java\com\example\Calculator.java
+2026.02.13 18:52:01 WARN  no build target for: C:\Users\Admin\Documents\se333-demo\src\test\java\com\example\CalculatorTest.java
+2月 13, 2026 6:55:55 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2月 13, 2026 6:55:55 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.13 18:57:03 WARN  no build target for: C:\Users\Admin\Documents\se333-demo\src\test\java\com\example\CalculatorTest.java
+2026.02.13 18:57:03 WARN  no build target for: C:\Users\Admin\Documents\se333-demo\src\main\java\com\example\Calculator.java
+2月 13, 2026 7:03:41 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.13 19:06:49 INFO  no build target found for C:\Users\Admin\Documents\se333-demo\src\main\java\com\example\Calculator.java. Using fallback presentation compiler.
+2026.02.13 19:06:49 INFO  no build target found for C:\Users\Admin\Documents\se333-demo\src\test\java\com\example\CalculatorTest.java. Using fallback presentation compiler.
