@@ -1,2 +1,10 @@
 # se333-demo
-Repository created via Copilot request
+
+Minimal Maven Java project with a simple `Calculator` and JUnit tests.
+
+Commands:
+
+```bash
+mvn test           # run tests
+mvn jacoco:report  # generate coverage report (target/site/jacoco/jacoco.xml)
+```
